@@ -1,0 +1,15 @@
+{
+    "NAME": "{{cookiecutter.service_name}}",
+    "REGISTRY_HOST": "127.0.0.1",
+    "REGISTRY_PORT": 4500,
+    "REDIS_HOST": "127.0.0.1",
+    "REDIS_PORT": 6379,
+    "HOST": "127.0.0.1",
+    "HTTP_PORT": 4900,
+    "TCP_PORT": 4910,
+    "POSTGRES_HOST": "127.0.0.1",
+    "POSTGRES_PORT": 5432,
+    "POSTGRES_USER": "database-username",
+    "POSTGRES_PASS": "database-password",
+    "POSTGRES_DB": "database-name"
+}
