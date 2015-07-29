@@ -7,8 +7,9 @@
     "http_port":"4501",
     "tcp_address":"127.0.0.1",
     "tcp_port":"4502",
-    "project_short_description": "Refreshingly simple static site generator.",
-    "release_date": "2015-07-10",
-    "year": "2015",
-    "version": "0.1.0"
+    "service_class_name":"",
+    "manager_class_name":"Manager",
+    "repository_class_name":"Repository",
+    "validator_class_name":"Validator",
+    "exceptions_class_name":"Exception"
 }
